@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Info Gempa</string>
+    <string name="magnitude">Magnitude</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="jam">Jam</string>
+    <string name="wilayah">Wilayah</string>
+    <string name="kedalaman">Kedalaman</string>
+    <string name="koordinat">Koordinat</string>
+    <string name="potensi">Potensi</string>
+    <string name="lihat_peta">Lihat Peta</string>
+</resources>
